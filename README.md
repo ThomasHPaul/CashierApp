@@ -6,7 +6,7 @@ Input:
 Amount to be returned as change to customer
 
 Output:
-# of dollars to return
+### of dollars to return
 # of quarters to return
 # of dimes to return
 # of nickels to return
