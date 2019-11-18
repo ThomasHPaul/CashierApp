@@ -11,8 +11,3 @@
 #### of dimes to return
 #### of nickels to return
 #### of pennies to return
-
-
-
-### The cashier will return amounts of change until the cashier indicates that no more transactions are to follow
-
