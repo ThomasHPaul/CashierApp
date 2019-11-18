@@ -6,8 +6,8 @@
 #### Amount to be returned as change to customer
 
 ### Output:
-#### of dollars to return
-#### of quarters to return
-#### of dimes to return
-#### of nickels to return
-#### of pennies to return
+#### number of dollars to return
+#### number of quarters to return
+#### number of dimes to return
+#### number of nickels to return
+#### number of pennies to return
